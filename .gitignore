@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Offline-generated model bundles and evaluation reports
+/models/*
+!/models/.gitkeep
+/reports/

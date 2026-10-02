@@ -1,0 +1,2 @@
+# Preserve source message whitespace and LF records for reproducible dataset hashes.
+data/sms_spam.csv text eol=lf -whitespace
